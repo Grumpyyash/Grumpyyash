@@ -1,46 +1,47 @@
-<h1 align="center">Hi 👋, I'm Yash Vardhan</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h2> Hey there! I'm Yash Vardhan.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Grumpyyash" alt="Grumpyyash" /> </p>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- ⚡ I’m currently learning **Redux, REST-API and React-Native**
+- 🤔 &nbsp; Learning.
+- 🎓 &nbsp; Studying Mathematics and Computing at IIT(ISM) Dhanbad
+- 🌱 &nbsp; Learning more about Ruby on Rails, Redux and APIs
+- ✍️ &nbsp; Programming and Developing
 
-- 💻 More about me can be found out on [https://yashvardhanportfolio.netlify.app/](https://yashvardhanportfolio.netlify.app/)
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💬 Let's have a chat about **Full-Stack Web Development and Competitive Programming**
+- 💻 &nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=ruby)
+- 🛢 &nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/M-mongoDB-green)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-- 📇 Reach me at **yashvardhan513@gmail.com**
+<br/>
 
-<hr></hr>
+<a href="https://github.com/Grumpyyash">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Grumpyyash&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grumpyyash&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="mongodb" width="40" height="40"/>
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</p>
-
-<hr></hr>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grumpyyash&layout=compact&hide=html" alt="Grumpyyash" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Grumpyyash&show_icons=true" alt="Grumpyyash" />
-
-<p align="center">
-<a href="https://www.linkedin.com/in/yash-vardhan-688952188/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash-vardhan" height="30" width="30" /></a>
-<a href="https://www.facebook.com/profile.php?id=100039280729807" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yash-vardhan" height="30" width="30" /></a>
-<a href="https://www.instagram.com/dn_yash/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yash-vardhan" height="30" width="30" /></a>
+<a href="https://yashvardhanportfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://yashvardhanportfolio.netlify.app/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/yash-vardhan-688952188/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yash%20Vardhan-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:yashvardhan513@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yashvardhan513@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
