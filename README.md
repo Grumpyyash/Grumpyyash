@@ -44,3 +44,5 @@
 <a href="https://www.linkedin.com/in/yash-vardhan-688952188/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yash%20Vardhan-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:yashvardhan513@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yashvardhan513@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+[![@grumpyyash's Holopin board](https://holopin.me/grumpyyash)](https://holopin.io/@grumpyyash)
